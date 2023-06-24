@@ -21,6 +21,27 @@ The Falcon-7B model was fine-tuned with the following parameters:
 - Learning Rate: `2e-4`
 - Max Steps: `200`
 ![](https://api.wandb.ai/links/nakish/g0i211ur)
+
+## Results
+<table>
+  <tr>
+    <th>Query</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td> 
+  </tr>
+  <tr>
+   <td></td>
+   <td></td> 
+  </tr>
+  <tr>
+   <td></td>
+   <td></td> 
+  </tr>
+    
+</table>
 ## Dependencies
 
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
