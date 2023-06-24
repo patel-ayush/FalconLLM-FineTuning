@@ -42,6 +42,7 @@ The Falcon-7B model was fine-tuned with the following parameters:
   </tr>
     
 </table>
+
 ## Dependencies
 
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
