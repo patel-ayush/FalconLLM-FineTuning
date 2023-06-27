@@ -25,22 +25,58 @@ The Falcon-7B model was fine-tuned with the following parameters:
 ## Results
 <table>
   <tr>
+    <th>Level</th>
     <th>Query</th>
     <th>Output</th>
   </tr>
   <tr>
-   <td></td>
-   <td></td> 
+   <td>Easy</td>
+   <td>What is the capital of France?</td>
+   <td>Paris is the capital of France</td> 
   </tr>
   <tr>
-   <td></td>
-   <td></td> 
+   <td>Easy</td>
+   <td>Who wrote the book '1984'?</td>
+   <td>George Orwell</td> 
   </tr>
   <tr>
-   <td></td>
-   <td></td> 
+   <td>Easy</td>
+   <td>Describe the process of photosynthesis</td>
+   <td>Photosynthesis is the process by which plants use sunlight to make food.</td> 
   </tr>
-    
+  <tr>
+   <td>Easy</td>
+   <td>What is the formula for calculating the area of a circle?</td>
+   <td>The formula for calculating the area of a circle is:
+A = πr2</td> 
+  </tr>
+ 
+  <tr>
+    <td>Intermediate</td>
+    <td>Could you explain the main ideas behind quantum physics?</td>
+    <td>The main idea behind quantum physics is that the world is made up of particles that are constantly in motion. These particles are called quarks, and they are the building blocks of matter.
+The second main idea is that these particles are constantly changing</td>
+  </tr>    
+  <tr>
+    <td>Intermediate</td>
+    <td>How does the blockchain technology behind Bitcoin work?</td>
+    <td>The blockchain is a distributed database that is used to record transactions. It is a public ledger that is shared by all users of the network.</td>
+  </tr> 
+  <tr>
+    <td>Intermediate</td>
+    <td>What's the recipe for making a classic French omelette?</td>
+    <td>The classic French omelette is made with eggs, milk, salt and pepper.The classic French omelette is made with eggs, milk, salt and pepper.</td>
+  </tr> 
+  <tr>
+    <td>Advance</td>
+    <td>Discuss the socioeconomic and philosophical implications of AI becoming conscious.</td>
+    <td>The implications of AI becoming conscious are many. The first and most obvious is that it will be able to think and reason. This will have a profound impact on the way that we live our lives. It will be able to make decisions for us, and it will be able to make decisions that we would not make.</td>
+  </tr> 
+  <tr>
+    <td>Advance</td>
+    <td>Describe how CRISPR-Cas9 technology is used for gene editing.</td>
+    <td>CRISPR-Cas9 is a gene editing technology that is used to edit the DNA of an organism. It is a very powerful tool that can be used to edit the DNA of an organism in a very precise way.</td>
+  </tr> 
 </table>
 
 ## Dependencies
